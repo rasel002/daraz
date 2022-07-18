@@ -31,3 +31,7 @@ body{
     color: blueviolet;
     padding: 0px 10px 0px 10px;
 }
+
+.block{
+    display: inline-block;
+}
