@@ -1,0 +1,33 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+}
+
+.container{
+    width: 1200px;
+    margin: auto;
+}
+
+.conainer-fluid{
+    width: 100%;
+}
+
+.menu{
+    text-align: center;
+    background-color: blueviolet;
+    padding: 20px;
+    
+}
+
+.menu a{
+    color: white;
+    margin-left: 50px;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    background-color: white;
+    color: blueviolet;
+    padding: 0px 10px 0px 10px;
+}
